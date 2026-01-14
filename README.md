@@ -5,3 +5,5 @@ anna's changes
 
 bug:
 text in bug-file should be in uppercase, with two (b) and with two (g)
+
+UNNECESARRY COMMIT THAT WE WANNA DELETE
