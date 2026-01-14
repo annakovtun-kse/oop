@@ -4,4 +4,4 @@ yevheniia's change
 anna's changes
 
 bug:
-text in bug-file should be in uppercase
+text in bug-file should be in uppercase and with two (g)
